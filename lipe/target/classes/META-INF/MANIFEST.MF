@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Lipe
+Implementation-Version: 0.1
+Built-By: Robert
+Implementation-Vendor-Id: rvo
+Build-Jdk: 1.8.0_65
+Implementation-URL: http://projects.spring.io/spring-boot/lipe/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
